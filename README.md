@@ -12,7 +12,7 @@
 
 Birthday | Favorite Color | Favorite Food | Pineapple on Pizza
 ---------|---------------|----------------|-------------------
-28/07    |      Bleu     |      Pizza     |         Yes
+28/07    |      Bleu     |      Pizza     | &#9745;Oui &#9744;Non
 
 
 ##### 
