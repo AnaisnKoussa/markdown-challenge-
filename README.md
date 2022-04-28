@@ -4,3 +4,5 @@
 
 *Apprends comme si tu devais vivre pour toujours* **Gandhi**
 
+![alt text](photo.png "Photo")
+
