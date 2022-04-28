@@ -4,5 +4,9 @@
 
 *Apprends comme si tu devais vivre pour toujours* **Gandhi**
 
-![alt text](photo.png "Photo")
+
+
+### Je suis une personne dynamique, souriante et déterminée. ###
+
+
 
