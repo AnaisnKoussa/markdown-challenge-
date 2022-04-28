@@ -10,9 +10,11 @@
 
 #### Je suis une personne dynamique, souriante et déterminée. ####
 
-| Birthday | Favorite Color | Favorite Food | Pineapple on Pizza |
-|  ------- | -------------- | ------------- | -------------------|
-|   28/07  |     Bleu       |     Pizza     |    Oui   |
+---- ----
+Birthday 28/07
+Favorite Color Bleu
+Favorite Food Pizza
+Pineapple on Pizza Yes
 
 
 #### 
