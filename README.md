@@ -4,6 +4,8 @@
 
 *Apprends comme si tu devais vivre pour toujours* **Gandhi**
 
+![photo](photo.jpg)
+
 
 
 #### Je suis une personne dynamique, souriante et déterminée. ####
@@ -12,6 +14,8 @@
 |  ------- | -------------- | ------------- | -------------------|
 |   28/07  |     Bleu       |     Pizza     |    Oui   |
 
+
+#### 
 
 
 
