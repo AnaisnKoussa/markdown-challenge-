@@ -19,10 +19,10 @@ Birthday | Favorite Color | Favorite Food | Pineapple on Pizza
     1. Cuisiner
     2. Lire 
     3. Sport 
-        . Course à pied 
-        . Équitation 
-        . Tennis
-        . Fitness
+        + Course à pied 
+        + Équitation 
+        + Tennis
+        + Fitness
         
 
         
